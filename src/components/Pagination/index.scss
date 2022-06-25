@@ -1,0 +1,13 @@
+.pagination {
+    width: 100%;
+    padding: 0 auto;
+    display: flex;
+    list-style: none;
+    outline: none;
+}
+.paginationItem {
+    border: 1px solid #47ccde;
+    padding: 5px 10px;
+    outline: none;
+    cursor: pointer;
+}
